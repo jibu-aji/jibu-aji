@@ -36,18 +36,19 @@ As a detail-oriented and analytical graduate, I am passionate about transforming
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
 </p> -->
 
-<!-- Power BI & Excel -->
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoftpowerquery&logoColor=white&style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-2674b6?logo=powerbi&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 
 <!-- Python & Libraries -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
+
+<!-- Power BI & Excel -->
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoftpowerquery&logoColor=white&style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-2674b6?logo=powerbi&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 
 <!-- Databases -->
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=for-the-badge)
