@@ -72,11 +72,15 @@ As a detail-oriented and analytical graduate, I am passionate about transforming
 
 ## 🚀 Projects
 
-**NEWS WEB APPLICATION - OPENBOOK**  
-*Marian College Autonomous Kuttikkanam*  
-Crafted a Django-based news publishing platform with role-based access control for Admin, Editor, Moderator, and User. Developed an interactive analytics dashboard for administrators, visualizing user engagement and article performance. Integrated Google Generative AI API for intelligent Q&A and personalized content recommendations.
+**NEWS WEB APPLICATION - OPENBOOK — INTELLIGENT NEWS, SMARTER CONVERSATIONS**  
+*College Project-* 
+Developed a Django-based news and content platform with role-based access control (Admin, Editor, Moderator, User).
+Integrated the Google Gemini API to automatically generate AI-powered contextual Q&A for published articles.
+Designed and implemented a modular backend structure with multiple Django apps for content management and user engagement.
+Focused on backend logic, database modeling, and AI integration to enhance content understanding and interaction.
 
-**Power BI Visualization Dashboard – COVID-19 Impact on Students**  
+
+**POWER BI DASHBOARD VISUALIZATION – COVID-19 Impact on Students**  
 Designed a Power BI dashboard to analyze COVID-19’s impact on students, revealing key insights into engagement, lifestyle trends, and online learning experiences. Delivered actionable recommendations to improve student wellness and digital learning outcomes.
 
 **IPL 2008–2024 Exploratory Data Analysis**  
