@@ -62,6 +62,7 @@ As a detail-oriented and analytical graduate, I am passionate about transforming
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-0078D7?style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA4F00?logo=jupyter&logoColor=white&style=for-the-badge)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-3C4E6C?logo=jupyter&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-0099E5?logo=render&logoColor=white&style=for-the-badge)
