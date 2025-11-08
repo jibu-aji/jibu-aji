@@ -75,10 +75,10 @@ As a detail-oriented and analytical graduate, I am passionate about transforming
 
 **NEWS WEB APPLICATION - OPENBOOK — INTELLIGENT NEWS, SMARTER CONVERSATIONS**  
 <div style="display: flex; gap: 10px;">
-  <img src="images/home.png" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="images/api_news_page.png" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="images/article_det.png" alt="Image 2" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="images/opi_qa_generator.png" alt="Image 3" style="width: 30%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/home.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/article_det.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/api_news_page.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/opi_qa_generator.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
 </div>
 *College Project-* 
 Developed a Django-based news and content platform with role-based access control (Admin, Editor, Moderator, User).
