@@ -93,9 +93,19 @@ Focused on backend logic, database modeling, and AI integration to enhance conte
 ---
 
 **POWER BI DASHBOARD VISUALIZATION – COVID-19 Impact on Students**  
+
+
+
 Designed a Power BI dashboard to analyze COVID-19’s impact on students, revealing key insights into engagement, lifestyle trends, and online learning experiences. Delivered actionable recommendations to improve student wellness and digital learning outcomes.
 
+---
+
 **IPL 2008–2024 Exploratory Data Analysis**  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/jibu-aji/EDA-IPL-2008-2024/blob/56cee9ff5c44e4a8380b25f9585df28a5d0288ba/images/page1.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/EDA-IPL-2008-2024/blob/56cee9ff5c44e4a8380b25f9585df28a5d0288ba/images/page2.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
+</div>
+
 Utilized Pandas and Power BI to analyze IPL match data, uncovering patterns in player performance, team outcomes, and seasonal trends. Built compelling visualizations to highlight top performers, venues, and match statistics.
 
 ---
