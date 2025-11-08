@@ -73,19 +73,24 @@ As a detail-oriented and analytical graduate, I am passionate about transforming
 
 ## 🚀 Projects
 
+
 **NEWS WEB APPLICATION - OPENBOOK — INTELLIGENT NEWS, SMARTER CONVERSATIONS**  
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/home.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/article_det.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/api_news_page.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
-  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/opi_qa_generator.png?raw=true" alt="Image 1" style="width: 30%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/home.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/article_det.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/api_news_page.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
+  <img src="https://github.com/jibu-aji/OpenBook--IntelligentNews-SmarterConversations/blob/6c8fd620ad3bd3c42c5b8dd8fb1bc83e5c91ffba/images/opi_qa_generator.png?raw=true" alt="Image 1" style="width: 45%; max-width: 150px; height: auto;">
 </div>
+
+
+
 *College Project-* 
 Developed a Django-based news and content platform with role-based access control (Admin, Editor, Moderator, User).
 Integrated the Google Gemini API to automatically generate AI-powered contextual Q&A for published articles.
 Designed and implemented a modular backend structure with multiple Django apps for content management and user engagement.
 Focused on backend logic, database modeling, and AI integration to enhance content understanding and interaction.
 
+---
 
 **POWER BI DASHBOARD VISUALIZATION – COVID-19 Impact on Students**  
 Designed a Power BI dashboard to analyze COVID-19’s impact on students, revealing key insights into engagement, lifestyle trends, and online learning experiences. Delivered actionable recommendations to improve student wellness and digital learning outcomes.
